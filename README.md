@@ -6,7 +6,7 @@ A stylized **Wind Waker–style water** demo for the [Octave](https://github.com
 
 ## What it does
 
-- **Opaque stylized water surface** with scrolling UV layers.
+- **Opaque/translucent stylized water surface** with scrolling UV layers.
 - **Seamless scrolling shoreline foam** — a mitered ribbon built around the pond's boundary, with the wavy foam line crawling around the edge with no seam.
 - **Per-object silhouette foam rings** — a foam outline around anything sitting in the water. Each ring is baked from the object's cross-section at the waterline, then at runtime it:
   - **pins** to the water surface (won't sink with the object),
