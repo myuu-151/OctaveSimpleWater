@@ -2,7 +2,7 @@
 
 A stylized **Wind Waker–style water** demo for the [Octave](https://github.com/mholtkamp/octave) engine (targeting the GameCube/Wii libogc backend via [Octave-libogc](https://github.com/myuu-151/Octave-libogc)). Pure engine assets + one Lua script — **no engine fork required**.
 
-![water](foamline.png)
+![water](preview.png)
 
 ## What it does
 
