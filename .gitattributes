@@ -1,0 +1,8 @@
+# Octave binary assets — never apply line-ending conversion (would corrupt them)
+*.oct  binary
+*.tex  binary
+*.png  binary
+*.glb  binary
+*.blend binary
+*.dol  binary
+*.octp binary

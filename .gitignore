@@ -1,0 +1,12 @@
+# Cooked/embedded assets — regenerated from Assets/ on build
+Generated/
+# Editor build temp
+Intermediate/
+# Exported console build output — re-export from the Build menu
+Packaged/
+# Editor session state
+Saves/
+# Python cache
+__pycache__/
+# Editor scene-resave backups
+*.bak
